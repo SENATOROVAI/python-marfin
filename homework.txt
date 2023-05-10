@@ -1,0 +1,27 @@
+051023
+
+git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people
+2)сделать форк репы себе и добавить действие деление по модулю в калькулятор, по желанию можешь вообще калькулятор переписать
+кинуть пул реквест в организацию
+https://github.com/SENATOROVAI/Calculator-Python-oleg14038/blob/main/Calculator.py
+
+algo:
+1)скачать
+https://t.me/RuslanSenatorov/429
+дочитать до 70 странице, мне важно понимать что из математических символов ты не понимаешь
+2)https://codeforces.com/problemset/problem/71/A?locale=en (с Олегом подружись он тоже делает это)
+решение:\algorithms\hw1-cf.py
+3)решить всё до 5 задачи https://projecteuler.net/archives
+решение:\algorithms\hw1-euler.py
+
+дискретка (математика для прогеров):
+1)https://t.me/RuslanSenatorov/43
+2)сделать всё до 15страницы
+решение:\discrete_math\hw1.jpg
+python:
+1)https://peps.python.org/pep-0008/ буду спрашивать про нотации, нейминги переменных
+2)решить задания \python\hw1.ipynb , если долго не можешь решить, ответы:\python\hw1-help.py
+system design:
+прочитать оглавление, смириться
+https://vk.com/doc41519737_487614007?hash=jAx308d7pFDZfSzLyyyq41YETEqK6FIuoQGWFJT93j8
