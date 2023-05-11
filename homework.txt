@@ -19,6 +19,8 @@ https://t.me/RuslanSenatorov/429
 1)https://t.me/RuslanSenatorov/43
 2)сделать всё до 15страницы
 решение:\discrete_math\hw1.jpg
+
+
 python:
 1)https://peps.python.org/pep-0008/ буду спрашивать про нотации, нейминги переменных
 2)решить задания \python\hw1.ipynb , если долго не можешь решить, ответы:\python\hw1-help.py
