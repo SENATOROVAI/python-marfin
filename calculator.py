@@ -1,3 +1,4 @@
+# почему здесь файл калькулятора?) надо было пул реквест кинуть Олегу)
 def calculator(num, num2, operator):
     if operator == '+':
         print('Сложение', num + num2)
