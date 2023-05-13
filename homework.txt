@@ -27,3 +27,9 @@ python:
 system design:
 прочитать оглавление, смириться
 https://vk.com/doc41519737_487614007?hash=jAx308d7pFDZfSzLyyyq41YETEqK6FIuoQGWFJT93j8
+
+051323
+
+git:
+1) https://www.youtube.com/watch?v=pm17VwdJ6UI
+2) https://github.com/abhisheknaiidu/awesome-github-profile-readme
